@@ -37,3 +37,5 @@ Conclusion
 🤖 Cyra represents a significant advancement in grocery management, combining AI-driven features with automated digital receipt handling to create a superior shopping experience. By enhancing customer engagement, simplifying order processes, and ensuring efficient receipt management, 🤖 Cyra not only improves customer satisfaction but also optimizes operational efficiency for grocery retailers. As the retail landscape continues to evolve, the adoption of chatbots like 🤖 Cyra will play a crucial role in shaping the future of grocery shopping.
 
 ![Cyrabot](https://github.com/MAHENDAR33/Cyra-chatbot/blob/main/Screenshot%20(267).png)
+
+and this will give recipt link and send to main here an example ![just example recipt](https://github.com/MAHENDAR33/Cyra-chatbot/blob/main/Screenshot%20(268).png)
